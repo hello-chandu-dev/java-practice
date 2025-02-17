@@ -1,0 +1,11 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(´„ÖÖ
+O
+java:S1854+"9Remove this useless assignment to local variable "input".(ú€¯Ì
+š
+java:S1130"}Remove the declaration of thrown exception 'org.example.exceptions.TestException', as it cannot be thrown from method's body.(ò®î‹8šéú¸Í2
+V	java:S125"<This block of commented-out lines of code should be removed.(ä«Ü©ûÿÿÿÿ
+@
+java:S1481+"*Remove this unused "input" local variable.(ú€¯Ì
+V	java:S125."<This block of commented-out lines of code should be removed.(á¼ýîÿÿÿÿÿ
+N	java:S1065"9Replace this use of System.out or System.err by a logger.(þª¯æ

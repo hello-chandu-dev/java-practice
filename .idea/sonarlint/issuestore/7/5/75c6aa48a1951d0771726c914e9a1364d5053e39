@@ -1,0 +1,11 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¤‰‰ûÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(¨”Æ•
+H
+java:S1611"2Remove the parentheses around the "temp" parameter(á²Á•
+V
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(á²Á•
+N	java:S106"9Replace this use of System.out or System.err by a logger.(á²Á•
+E
+java:S1128"/Remove this unused import 'java.util.Iterator'.(¥ÍòÕ

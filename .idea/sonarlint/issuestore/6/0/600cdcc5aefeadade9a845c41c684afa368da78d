@@ -1,0 +1,16 @@
+
+M	java:S106"9Replace this use of System.out or System.err by a logger.(ÊĞïs
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ºÿšÛ
+W	java:S125"<This block of commented-out lines of code should be removed.(ÚÖŠ(8èèå2
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÓŠ­øÿÿÿÿ
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(Ã Ø„şÿÿÿÿ
+V	java:S125#"<This block of commented-out lines of code should be removed.(±¿Éøÿÿÿÿ
+U
+java:S1161&":Add the "@Override" annotation above this method signature(³Í¬Ïûÿÿÿÿ
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(Îÿş¼ûÿÿÿÿ
+Q	java:S125)"<This block of commented-out lines of code should be removed.(ø‡È
+N	java:S106-"9Replace this use of System.out or System.err by a logger.(°—¦î
+>
+java:S1068"(Remove this unused "name" private field.(Ë¥¼
+?
+java:S1068")Remove this unused "items" private field.(Øÿ‹¼

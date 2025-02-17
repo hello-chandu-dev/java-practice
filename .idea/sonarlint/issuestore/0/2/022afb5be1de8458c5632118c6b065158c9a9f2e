@@ -1,0 +1,9 @@
+
+N	java:S106
+"9Replace this use of System.out or System.err by a logger.(Üÿ”ü
+N	java:S106"9Replace this use of System.out or System.err by a logger.(™”Ø–
+S	java:S106"9Replace this use of System.out or System.err by a logger.(™ìãùùÿÿÿÿ
+t
+java:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ñô§âþÿÿÿÿ
+S	java:S106""9Replace this use of System.out or System.err by a logger.(ê¨„ùüÿÿÿÿ
+N	java:S106#"9Replace this use of System.out or System.err by a logger.(…Ò¡›

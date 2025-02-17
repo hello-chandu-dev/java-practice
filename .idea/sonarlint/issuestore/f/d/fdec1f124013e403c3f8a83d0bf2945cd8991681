@@ -1,0 +1,22 @@
+
+M
+java:S35186"7Make sure "b" can't be zero before doing this division.(ò„¢ó
+K
+java:S18546"5Remove this useless assignment to local variable "c".(ò„¢ó
+V	java:S125
+"<This block of commented-out lines of code should be removed.(Ñ¡¬€þÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(ÇßàŒ
+Q	java:S125"<This block of commented-out lines of code should be removed.(—¥êÜ
+Q	java:S125"<This block of commented-out lines of code should be removed.(ä‚´„
+P	java:S125""<This block of commented-out lines of code should be removed.(¼öÍ=
+<
+java:S14816"&Remove this unused "c" local variable.(ò„¢ó
+N	java:S1069"9Replace this use of System.out or System.err by a logger.(ìÍ¦‡
+S	java:S106:"9Replace this use of System.out or System.err by a logger.(©þêÜúÿÿÿÿ
+V	java:S125C"<This block of commented-out lines of code should be removed.(ø½ýùÿÿÿÿ
+?
+java:S1128")Remove this unused import 'java.io.File'.(†Ð¥Å
+U
+java:S1128":Remove this unused import 'java.io.FileNotFoundException'.(·î™ùÿÿÿÿ
+J
+java:S1128"/Remove this unused import 'java.io.FileReader'.(Â¡¢äþÿÿÿÿ

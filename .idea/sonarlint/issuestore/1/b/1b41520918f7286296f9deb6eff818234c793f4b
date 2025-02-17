@@ -1,0 +1,18 @@
+
+P
+java:S18547"5Remove this useless assignment to local variable "b".(Û³ıÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(¹¬ÔÃ
+P	java:S125"<This block of commented-out lines of code should be removed.(ÊÊİg
+Q	java:S125'"<This block of commented-out lines of code should be removed.(°ó„Å
+e
+java:S17646"JCorrect one of the identical sub-expressions on both sides of operator "-"(œÛ©ûÿÿÿÿ
+E
+java:S11978"*Move the array designators [] to the type.(İ©Û‘üÿÿÿÿ
+N	java:S106;"9Replace this use of System.out or System.err by a logger.(¹îæÜ
+N	java:S106="9Replace this use of System.out or System.err by a logger.(¬˜‰
+m
+java:S1128"RRemove this unused import 'jdk.internal.org.objectweb.asm.tree.TryCatchBlockNode'.(Ä·ê—şÿÿÿÿ
+U
+java:S1128":Remove this unused import 'java.io.FileNotFoundException'.(·î™ùÿÿÿÿ
+J
+java:S1128"/Remove this unused import 'java.io.FileReader'.(Â¡¢äşÿÿÿÿ
